@@ -4,7 +4,7 @@
 <h3 align="center">I am a Software Engineer</h3>
 
 
-- :mortar_board: I'm a 7th-semester CS Student @ GUC  
+- :mortar_board: I'm a 9th-semester CS Student @ GUC  
 - :seedling: I'm currently learning and improving my skills in Web Development and CyberSecurity
 - 🤝 I’m interested in Backend Development and CyberSecurity
 - 📫 How to reach me **omar_shaaban@outlook.com**
